@@ -1,0 +1,86 @@
+
+/*Body Styles goes here*/
+
+body {
+	
+	letter-spacing: .2em;
+	background-color: burlywood;
+	width: 100%;
+	float: left;
+}
+
+/* Images Styles goes here*/
+
+img {
+	
+	width: 300px;
+}
+
+/* div Styles goes here*/
+
+div {
+	
+    width: 960px;
+}
+
+/* main clase Styles goes here*/
+
+.main {
+	
+	font-style: italic;
+	color: white;
+}
+
+/* h1 Styles goes here*/
+
+h1{
+	width: 20%;
+	margin-left: 40%;
+	text-align: center;
+	background-color:darkolivegreen;
+	border: 5px solid #aaa;
+}
+
+/* h3 Styles goes here*/
+
+h3.main{
+	
+	text-align: center;
+	width:22.5%;
+}
+
+/* paragraph Styles goes here*/
+
+p {
+	
+	font-size: 1.3em;
+	background-color: navy;
+}
+
+/*list items Styles goes here*/
+
+li {
+	
+	
+	list-style-type: none;
+	background-color: yellowgreen;
+	font-size: 1.2em;
+}
+
+/* span styles goes here*/
+span{
+	
+	font-weight: bold;
+	
+}
+
+/*borders Styles goes here*/
+
+.border {
+	
+	border: 3px solid green;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+/*End of code*/
